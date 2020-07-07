@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ModMetaData>
+  <name>Sarcophagus = Table</name>
+  <author>Zylle</author>
+  <supportedVersions>
+	  <li>1.0</li>
+	  <li>1.1</li>
+  </supportedVersions>
+   <packageId>zylle.SarcophagusIsTable</packageId>
+  <description>Sarcophagi function as tables. That is all. Safe to add/remove.
+
+This description feels too short, so - 
+
+Pawns will eat at a sarcophagus if there are chairs next to it, just like they do with tables. A sarcophagus can be designated as a gathering spot, like a table can.
+
+Update: Like tables, sarcophagi can now be reinstalled.
+
+
+Mod was made in response to a suggestion on reddit.</description>
+</ModMetaData>
